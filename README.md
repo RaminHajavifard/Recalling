@@ -4,5 +4,6 @@
 * For creating bullet point, we use the * symbol
 * secong bulet point
 ``` Three backticks mean that i will start a block of codes.
-print("Hello World"
+print("Hello World")
 ```
+![111](https://github.com/user-attachments/assets/8777dbdc-848c-42e8-934e-2ee49707e86d)
